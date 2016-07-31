@@ -16,8 +16,8 @@ const map: any = {
 /** User packages configuration. */
 const packages: any = {
   angularfire2: {
-    defaultExtension: 'ts',
-    main: 'angularfire2.ts'
+    defaultExtension: 'js',
+    main: 'angularfire2.js'
   }
 };
 
