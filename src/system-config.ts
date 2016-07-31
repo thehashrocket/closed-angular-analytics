@@ -14,6 +14,7 @@ const map: any = {
 };
 
 /** User packages configuration. */
+// fixed extensions...
 const packages: any = {
   angularfire2: {
     defaultExtension: 'js',
